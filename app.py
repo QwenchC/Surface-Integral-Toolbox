@@ -352,8 +352,13 @@ with col_display:
                             sizemode="absolute",
                             sizeref=step * 0.25,
                             colorscale=[
+<<<<<<< HEAD
                                 [0.0, "rgba(200,230,255,0.5)"],
                                 [1.0, "rgba(80,160,240,0.5)"],
+=======
+                                [0.0, "rgba(200,230,255,0.18)"],
+                                [1.0, "rgba(80,160,240,0.18)"],
+>>>>>>> 148aa1964628c1ee3fa99f0fdae5c6f4819c680c
                             ],
                             showscale=False,
                             opacity=0.85,
